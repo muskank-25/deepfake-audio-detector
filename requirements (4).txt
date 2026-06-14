@@ -1,0 +1,12 @@
+numpy
+pandas
+librosa==0.10.1
+soundfile
+scikit-learn
+torch==2.0.0+cpu
+torchaudio==2.0.0+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+matplotlib
+seaborn
+tqdm
+streamlit
