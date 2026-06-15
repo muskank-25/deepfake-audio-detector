@@ -249,7 +249,7 @@ weighted avg       0.xx      0.xx      0.xx      XXXX
 
 ## 🌐 Streamlit Web App Features
 
-**Live URL:** https://deepfake-audio-detector-kzxg4ferfh2pzkpy4qs6ox.streamlit.app
+**Live URL:https://deepfake-audio-detector-rend8dwba93vs4mv2nkcaf.streamlit.app/
 
 | Feature | Description |
 |---------|-------------|
